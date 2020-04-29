@@ -21,3 +21,12 @@ Please look at the code for more details.
 # Related information<br>
 [Youtube](https://www.youtube.com/)<br>
 [pytube9.6.0](https://pypi.org/project/pytube/)<br>
+----
+/**
+[Downloads_ForYoutube]
+
+Copyright (c) [2020] [Rintaro Nakahodo]
+
+This software is released under the MIT License.
+http://opensource.org/licenses/mit-license.php
+*/
