@@ -12,7 +12,7 @@
 #### Downloads_ForYoutube is the **Python sample code** you can use to download videos from [Youtube](https://www.youtube.com/).<br>
 Specifically, the following process is followed.<br>
 
-1. Use **pytube** to get a stream and select a video from among multiple items (due to the use of YouTube, the same video can have different types depending on the number of flames and quality).
+1. Use **pytube3** to get a stream and select a video from among multiple items (due to the use of YouTube, the same video can have different types depending on the number of flames and quality).
 1. Download any video
 <br>
 Please look at the code for more details.
