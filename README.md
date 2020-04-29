@@ -23,9 +23,9 @@ Please look at the code for more details.
 [pytube9.6.0](https://pypi.org/project/pytube/)<br>
 ----
 <br>
-[Downloads_ForYoutube]
+Downloads_ForYoutube
 <br>
-Copyright (c) [2020] [Rintaro Nakahodo]
+Copyright (c) 2020 Rintaro Nakahodo
 <br>
 This software is released under the MIT License.<br>
 http://opensource.org/licenses/mit-license.php
