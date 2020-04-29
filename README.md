@@ -4,7 +4,7 @@
 1. pytubeを用いてstreamを取得し、複数項目ある中から動画の選択（YouTubeの使用上、同じ動画にもFlame数や画質によって種類が違う）<br>
 1. **任意の動画**のダウンロード
 
-#### ※今回使用したのはpytubeのversion 9.6.4.です。
+#### ※今回使用したのはpytube3のversion 9.6.4.です。
 ----
 
 --- 
@@ -20,7 +20,7 @@ Please look at the code for more details.
 ----
 # Related information<br>
 [Youtube](https://www.youtube.com/)<br>
-[pytube9.6.0](https://pypi.org/project/pytube/)<br>
+[pytube3 9.6.4](https://pypi.org/project/pytube3/)<br>
 ----
 <br>
 Downloads_ForYoutube
