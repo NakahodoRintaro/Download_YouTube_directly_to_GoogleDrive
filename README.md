@@ -5,6 +5,13 @@
 1. **任意の動画**のダウンロード
 
 #### ※今回使用したのはpytube3のversion 9.6.4.です。
+
+- ## ダウンロード方法
+  - **自身のGoogleDriveをマウントする**
+  - ダウンロード先のディレクトリに移動する(cdコマンド)
+  - Url部分を好きなYoutubeのURLに変更
+  - fpsや画質のリストがでるのでその中から選択
+  - download.部分でダウンロード
 ----
 
 --- 
@@ -17,6 +24,12 @@ Specifically, the following process is followed.<br>
 <br>
 Please look at the code for more details.
 
+- ## How to download
+  - **Mount your own Google Drive**
+  - Move to the download destination directory (Using cd command)
+  - Change the Url part to your favorite Youtube URL
+  - Since a list of fps and image quality appears, select from them
+  - Download at download. part
 ----
 # Related information<br>
 [Youtube](https://www.youtube.com/)<br>
