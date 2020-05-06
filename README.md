@@ -25,8 +25,8 @@ Specifically, the following process is followed.<br>
 Please look at the code for more details.
 
 - ## How to download
-  - **Mount your own Google Drive**
-  - Move to the download destination directory (Using cd command)
+  - **Mount your own Google Drive**(By mounting it, it will be stored in the cloud, so there is more room for capacity.)
+  - Move to the download destination directory (Using cd command.)
   - Change the Url part to your favorite Youtube URL
   - Since a list of fps and image quality appears, select from them
   - Download at download. part
