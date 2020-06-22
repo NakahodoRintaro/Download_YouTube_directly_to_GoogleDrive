@@ -12,7 +12,6 @@
   - Url部分を好きなYoutubeのURLに変更
   - fpsや画質のリストがでるのでその中から選択
   - download.部分でダウンロード
-----
 
 --- 
 # Explanation in English
