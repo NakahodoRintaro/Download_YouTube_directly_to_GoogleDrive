@@ -1,5 +1,5 @@
 # Downloads_ForYoutube
-#### Downloads_ForYoutubeは[Youtube](https://www.youtube.com/)から動画のダウンロードに使うためのPythonのサンプルコードです。<br>
+#### Downloads_ForYoutubeは[Youtube](https://www.youtube.com/)から自分のGoogle Colabolatoryに直接動画のダウンロードに使うためのPythonのサンプルコードです。<br>
 具体的には以下の工程に沿って扱います。<br>
 1. pytubeを用いてstreamを取得し、複数項目ある中から動画の選択（YouTubeの使用上、同じ動画にもFlame数や画質によって種類が違う）<br>
 1. **任意の動画**のダウンロード
@@ -15,7 +15,7 @@
 
 --- 
 # Explanation in English
-#### Downloads_ForYoutube is the **Python sample code** you can use to download videos from [Youtube](https://www.youtube.com/).<br>
+#### Downloads_ForYoutube is a service that allows you to download videos from [Youtube] (https://www. youtube.com/) directly from [youtube] (. youtube.com/) to your Google Colabolatory. Here's some sample Python code to use for downloading <br>
 Specifically, the following process is followed.<br>
 
 1. Use **pytube3** to get a stream and select a video from among multiple items (due to the use of YouTube, the same video can have different types depending on the number of flames and quality).
