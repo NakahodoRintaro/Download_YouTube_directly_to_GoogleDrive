@@ -41,5 +41,5 @@ Copyright (c) 2020 Rintaro Nakahodo
 <br>
 This software is released under the MIT License.<br>
 http://opensource.org/licenses/mit-license.php
-s
+
 
