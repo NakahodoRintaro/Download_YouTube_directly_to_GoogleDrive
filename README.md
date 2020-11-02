@@ -12,7 +12,10 @@
   - Url部分を好きなYoutubeのURLに変更
   - fpsや画質のリストがでるのでその中から選択
   - download.部分でダウンロード
-
+  
+- ## 現在使用できないようです。（11月2日現在）
+  - pytube3のラッパーであるyoutube-dlがGithubにて消されたことを発端とした件で使えなくなったようです。そのため、本アプリは現在使用できない状態にあるようです。なんとか別の手段でダウンロード可能でないか模索しますが、しばらくお時間をいただきたく思います。なにか他の方法をご存知の方がいらっしゃったらIssues募集していますので投稿のほど、お願いします。
+  
 --- 
 # How to youtube Download directry Google Colabolatory
 #### Downloads_ForYoutube is a service that allows you to download videos from [Youtube](https://www.youtube.com/) directly from your Google Colabolatory. Here's some sample Python code to use for downloading .<br>
@@ -30,6 +33,9 @@ Please look at the code for more details.
   - Since a list of fps and image quality appears, select from them
   - Download at download. part
 ----
+
+- ## News(As of Nov. 2)
+    - This app seems to have been disabled due to a case that started with the deletion of pytube3's rapper, youtube-dl, on Github. So, this app is currently unavailable. I'm trying to find another way to download it, but I would like to ask for some time. I'm looking for other ways to download this app, but it will take a while.
 # Related information<br>
 [Youtube](https://www.youtube.com/)<br>
 [pytube3 9.6.4](https://pypi.org/project/pytube3/)<br>
