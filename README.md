@@ -32,16 +32,15 @@ Please look at the code for more details.
 ----
 
 - ## News(As of Nov. 2)
-    - ~~~This app seems to have been disabled due to a case that started with the deletion of pytube3's rapper, youtube-dl, on Github. So, this app is currently unavailable. I'm trying to find another way to download it, but I would like to ask for some time. I'm looking for other ways to download this app, but it will take a while.~~~
+    - ~~This app seems to have been disabled due to a case that started with the deletion of pytube3's rapper, youtube-dl, on Github. So, this app is currently unavailable. I'm trying to find another way to download it, but I would like to ask for some time. I'm looking for other ways to download this app, but it will take a while.~~
+- ## News(As of Apr.20)
+    -   Now that the pytube pipeline, youtube-dl, is available on Github, it works again. It's available now, so go ahead and use it!
+
 # Related information<br>
 [Youtube](https://www.youtube.com/)<br>
 [pytube3 9.6.4](https://pypi.org/project/pytube3/)<br>
 ----
-- ## News(As of Apr.20)
-    - Now that the pytube pipeline, youtube-dl, is available on Github, it works again. It's available now, so go ahead and use it!
-# Related information<br>
-[Youtube](https://www.youtube.com/)<br>
-[pytube3 9.6.4](https://pypi.org/project/pytube3/)<br>
+
 ----
 <br>
 Downloads_ForYoutube
